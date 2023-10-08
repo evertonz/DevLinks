@@ -18,7 +18,7 @@ Primeiro curso realizado de forma gratuita, promovido pela Rocketseat para ensin
 <br>
 
 <p align="center">
-  <img alt="DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="DevLinks" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
