@@ -18,7 +18,7 @@ Primeiro curso realizado de forma gratuita, promovido pela Rocketseat para ensin
 <br>
 
 <p align="center">
-  <img alt="Projeto Linktree" src=".github/preview.jpg" width="100%">
+  <img alt="DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Devlinks é um projeto para uso profissinal ou pessoal para organizar e simplica
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/wwy1MGL9Jj36Vz2qSX1YwF/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437%3A191&mode=design&t=sgOHuBaDosBTSMfO-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/wwy1MGL9Jj36Vz2qSX1YwF/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437%3A191&mode=design&t=sgOHuBaDosBTSMfO-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
