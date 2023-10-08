@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Linktree </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Primeiro curso realizado de forma gratuita, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Primeiro curso realizado de forma gratuita, promovido pela Rocketseat para ensin
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Linktree" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse é um projeto para uso profissinal ou pessoal para organizar e simplicar seus links.
+Devlinks é um projeto para uso profissinal ou pessoal para organizar e simplicar seus links.
 
 ## 🔖 Layout
 
